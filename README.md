@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed by [Sriram Sowmithri](https://github.com/sriramsowmithri9807)  
 
-For queries or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/sriramsowmithri) or contact via email.  
+For queries or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/sriramsowmithri) or contact via email --> sowmithrisriram7@gmail.com
 
 ---  
 
